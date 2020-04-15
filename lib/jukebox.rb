@@ -51,11 +51,12 @@ def play(songs)
 end 
 
 def exit_jukebox
-  puts "Please enter a command:"
+  puts "Goodbye"
+end 
+
+puts "Please enter a command:"
   input = gets.strip
   
   if input == "exit"
-    puts "Goodbye"
+    exit_jukebox
   end 
-  
-end 
