@@ -43,15 +43,6 @@ def play(songs)
   else 
     puts "Invalid input, please try again"
   end
-  
-#   i = 0 
-# while i < songs.length do 
-#   if input == songs[i]
-#   	song_name = songs[i]
-#   	puts song_name
-#   end 
-#   i += 1
-# end 
     # binding.pry
 end 
 
