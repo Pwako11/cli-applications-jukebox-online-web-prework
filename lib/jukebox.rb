@@ -36,6 +36,7 @@ def play(songs)
   if num < songs.length && num >= 0
     output = songs[num]
     puts output
+  elsif 
   elsif num > songs.length && num >= 0 
     puts "Invalid input, please try again"
   end
