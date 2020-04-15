@@ -52,7 +52,7 @@ def play(songs)
 #   end 
 #   i += 1
 # end 
-    binding.pry
+    # binding.pry
 end 
 
 def end_jukebox
