@@ -54,9 +54,9 @@ def exit_jukebox
   puts "Goodbye"
 end 
 
-puts "Please enter a command:"
-  input = gets.strip
+# puts "Please enter a command:"
+#   input = gets.strip
   
-  if input == "exit"
-    exit_jukebox
-  end 
+#   if input == "exit"
+#     exit_jukebox
+#   end 
